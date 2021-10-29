@@ -44,7 +44,8 @@
                 "url": "/pricing",
                 "style": "secondary"
             }
-        ]
+        ],
+        "title": "معلن "
     },
     "footer": {
         "logo": "images/logo.svg",
